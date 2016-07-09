@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rohit Sharma - Homework4</string>
+    <string name="title_recyclerView">Recycler View</string>
+    <string name="title_aboutMe">About Me</string>
+    <string name="title_recycler">Task 1-Recycler View</string>
+    <string name="title_movieDetail">Movie Details</string>
+    <string name="title_name"><u>Rohit Sharma</u></string>
+    <string name="title_subject"><u>CSE691-Android Programming</u></string>
+   </resources>
